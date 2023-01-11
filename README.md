@@ -1,4 +1,4 @@
-# website_navigator
+# Website Navigator
 An experimental (but stable) basic web browser powered by CefSharp on Visual Basic 2015.
 <br>
 <br>
