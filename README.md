@@ -15,12 +15,8 @@ But this software is 100% secure and opensource.
 It is a basic web browser. You cannot even open a new tab or download a file with this.
 <br>
 It requires .NET Framework version 4.5.2 or higher.
-<br>
-<br>
-<br>
-<br>
 
-ISC LICENSE
+## ISC LICENSE
 <br>
 <br>
 Copyright TheDoggyBrad
