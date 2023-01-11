@@ -17,8 +17,6 @@ It is a basic web browser. You cannot even open a new tab or download a file wit
 It requires .NET Framework version 4.5.2 or higher.
 
 ## ISC LICENSE
-<br>
-<br>
 Copyright TheDoggyBrad
 <br>
 <br>
