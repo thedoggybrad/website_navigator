@@ -20,7 +20,7 @@ It is a basic web browser. You cannot even open a new tab or download a file wit
 It requires .NET Framework version 4.5.2 or higher.
 
 ## Downloads and Source Code
-Source Code: TBD
+Source Code (ZIP): https://github.com/thedoggybrad/website_navigator/releases/download/v1/SOURCE.CODE.Website.Navigator.zip
 <br>
 <br>
 Portable Program (Unsigned): https://github.com/thedoggybrad/website_navigator/releases/download/v1/PROGRAM.Website_Navigator.zip
