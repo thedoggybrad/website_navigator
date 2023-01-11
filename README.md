@@ -1,5 +1,5 @@
-## Important
-Since this is a experimental software, I have no plans of maintaining it. Thus, the only first release will be maintainted as it is.
+## Important!!!
+Since this is a experimental software (but this is stable), I have no plans of maintaining it. Thus, the only first release will be maintainted as it is. This repository is archived as nothing will be changed here. Also, it is feature uncomplete.
 
 # Website Navigator
 An experimental (but stable) basic web browser powered by CefSharp on Visual Basic 2015.
