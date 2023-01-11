@@ -23,9 +23,6 @@ It requires .NET Framework version 4.5.2 or higher.
 ISC LICENSE
 <br>
 <br>
-<br>
-
-
 Copyright TheDoggyBrad
 <br>
 <br>
