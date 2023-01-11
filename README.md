@@ -19,6 +19,12 @@ It is a basic web browser. You cannot even open a new tab or download a file wit
 <br>
 It requires .NET Framework version 4.5.2 or higher.
 
+## Downloads and Source Code
+Source Code: TBD
+<br>
+<br>
+Portable Program (Unsigned): TBD
+
 ## ISC LICENSE
 Copyright TheDoggyBrad
 <br>
